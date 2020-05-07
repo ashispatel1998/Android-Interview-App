@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ans">
+     <item>Android is a mobile operating system developed by Google. It is based on a modified version of the Linux kernel and other open source software, and is designed primarily for touchscreen mobile devices such as smartphones and tablets.</item>
+        <item>A software development kit that enables developers to create applications for the Android platform.</item>
+        <item>Activities are the part of the mobile app which the user can see and interact with.</item>
+        <item>Service is an Android component which runs in the background and acts independently. It does not provide any user interface.</item>
+        <item>A Context is a handle to the system; it provides services like resolving resources, obtaining access to databases and preferences, and so on. An Android app has activities. Context is like a handle to the environment your application is currently running in.
+Application Context: This context is tied to the lifecycle of an application. The application context can be used where you need a context whose lifecycle is separate from the current context or when you are passing a context beyond the scope of an activity.
+Activity Context: This context is available in an activity. This context is tied to the lifecycle of an activity. The activity context should be used when you are passing the context in the scope of an activity or you need the context whose lifecycle is attached to the current context.</item>
+<item>There are 3 CPU architectures in Android. ARMv7 is the most common as it is optimised for battery consumption. ARM64 is an evolved version of that that supports 64-bit processing for more powerful computing. ARMx86, is the least used for these three, since it is not battery friendly. It is more powerful than the other two.</item>
+<item>Android uses DVM (Dalvik Virtual Machine ) rather using JVM(Java Virtual Machine).</item>
+<item>Open-source: It means no license, distribution and development fee.
+
+Platform-independent: It supports Windows, Mac, and Linux platforms.
+
+Supports various technologies: It supports camera, Bluetooth, wifi, speech, EDGE etc. technologies.
+
+Highly optimized Virtual Machine: Android uses a highly optimized virtual machine for mobile devices, called DVM (Dalvik Virtual Machine).</item>
+        <item>Yes, an android app can be developed in C/C++ also using android NDK (Native Development Kit). It makes the performance faster. It should be used with Android SDK.</item>
+<item>The core building blocks of Android are:
+
+Activity
+View
+Intent
+Service
+Content Provider
+Fragment etc.</item>
+
+    </string-array>
+</resources>

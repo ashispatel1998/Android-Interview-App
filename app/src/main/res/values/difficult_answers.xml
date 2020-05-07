@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diffcult_ans">
+        <item>Mobile app testing is the testing of applications on a device which mainly focuses on functions and features of the application</item>
+        <item>Java is the widely used language for Android development</item>
+        <item>Activities are the part of the mobile app which the user can see and interact with</item>
+        <item> Android framework is a set of API’s using which the Android developers write code for the mobile apps. It contains the methods and classes to write the programming code.</item>
+        <item>There are 7 life-cycle methods of activity. They are as follows:
+                1.onCreate()
+                2.onStart()
+                3.onResume()
+                4.onPause()
+                5.onStop()
+                6.onRestart()
+                7.onDestroy()
+        </item>
+        <item>It is a kind of message or information that is passed to the components. It is used to launch an activity, display a web page, send SMS, send email, etc. There are two types of intents in android:
+                1.Implicit Intent
+                2.Explicit Intent
+        </item>
+        <item>The following folders are declared as impotent in android:
+
+                AndroidManifest.xml
+                build.xml
+                bin/
+                src/
+                res/
+                assets/
+        </item>
+        <item>We use bundles to pass the required data to various subfolders.</item>
+        <item>The files which can be injected for the building up of a process are called as application resource file.</item>
+        <item>
+              A unique Linux ID is assigned to each application in android. It is used for the tracking of a proc</item>
+    </string-array>
+</resources>

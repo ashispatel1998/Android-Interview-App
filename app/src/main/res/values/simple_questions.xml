@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ques">
+        <item>What is Android?</item>
+        <item>What is the google Android SDK?</item>
+        <item>Explain briefly – what is meant by Activities?</item>
+        <item> What is meant by Services?</item>
+        <item>What is Context?</item>
+        <item> What is Armv7?</item>
+        <item>Why bytecode cannot be run in Android?</item>
+        <item>What are the advantages of Android?</item>
+        <item>Does android support other languages than java?</item>
+        <item>What are the core building blocks of android?</item>
+    </string-array>
+
+</resources>

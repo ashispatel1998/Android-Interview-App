@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficult_ques">
+        <item>What is the difference between Mobile Application Testing and Mobile Testing</item>
+        <item> Name the languages supported for Android development</item>
+        <item> Explain briefly – what is meant by Activities?</item>
+        <item>Define and explain Android Framework.</item>
+        <item>What are the life cycle methods of android activity?</item>
+        <item>What is intent?</item>
+        <item>Give a list of impotent folders in android</item>
+        <item>Explain the use of 'bundle' in android?</item>
+        <item>What is an application resource file?</item>
+        <item>What is the use of LINUX ID in android?</item>
+    </string-array>
+</resources>
